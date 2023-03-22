@@ -4,7 +4,8 @@
 //-----------------------------------------------------------------------------
 int main(void) {
 
-    printf("Hello, world\n");
+    printf("Hello, lovely world\n");
+    printf("Java sucks compared to C\n");
 
     return(EXIT_SUCCESS);
 }
